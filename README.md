@@ -1,18 +1,26 @@
 <h1 align="center">Hi , I'm OM444R AC <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="om444r.dev@gmail.com">om444r.dev@gmail.com</a>
+I am a Software Engineering student with a focus on Artificial Intelligence. I have solid experience building web applications and intelligent systems using modern technologies.
+
+* **Languages & Tools I use:** HTML, CSS, JavaScript, Python, PHP, Laravel, SQL, Git
+* **🌱 I’m currently learning ...:**  
+  - Azure Cloud Fundamentals (AZ-900)  
+  - React.js  
+  - BigQuery & OLAP Data Warehousing
+* **😉 I'm interested in:**  
+  - Full Stack Web Development  
+  - Business Intelligence & Data Analytics  
+  - Intelligent Agents and AI systems  
+  - Agile methodologies (Scrum)
+* 👯 I’m looking forward to collaborate on software and open source projects.
+* ✔ Ask me about web development, backend logic, or cloud-based architecture — I’m happy to help if it’s in my scope! 😉<br>
+* 📫 Reach out to me at: <a href="mailto:om444r.dev@gmail.com">om444r.dev@gmail.com</a>
 
 ## My Skills Include
 
@@ -64,7 +72,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </span>
 
-<h2 >Github stats:</h2> 
+
+<h2>Github stats:</h2>
 
 [![](https://github-readme-stats.vercel.app/api?username=OM444R&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=OM444R&theme=material-palenight)](https://github.com/OM444R)
