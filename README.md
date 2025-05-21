@@ -9,17 +9,17 @@
 I am a Software Engineering student with a focus on Artificial Intelligence. I have solid experience building web applications and intelligent systems using modern technologies.
 
 * **Languages & Tools I use:** HTML, CSS, JavaScript, Python, PHP, Laravel, SQL, Git
-* **🌱 I’m currently learning ...:**  
+* **🌱 Currently learning:**  
   - Azure Cloud Fundamentals (AZ-900)  
   - React.js  
   - BigQuery & OLAP Data Warehousing
-* **😉 I'm interested in:**  
+* **😉 Interested in:**  
   - Full Stack Web Development  
   - Business Intelligence & Data Analytics  
   - Intelligent Agents and AI systems  
   - Agile methodologies (Scrum)
-* 👯 I’m looking forward to collaborate on software and open source projects.
-* ✔ Ask me about web development, backend logic, or cloud-based architecture — I’m happy to help if it’s in my scope! 😉<br>
+* 👯 Looking forward to collaborate on software and open source projects.
+* ✔ Ask me about web development, backend logic, or cloud-based architecture — Happy to help if it’s in my scope!<br>
 * 📫 Reach out to me at: <a href="mailto:om444r.dev@gmail.com">om444r.dev@gmail.com</a>
 
 ## My Skills Include
